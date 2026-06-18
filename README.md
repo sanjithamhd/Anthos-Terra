@@ -157,11 +157,5 @@ User Accessibility and Experience: Designing an intuitive, responsive interface 
 ## 🎥 Watch the Project Video
 [Watch the video](https://www.canva.com/design/DAG09koVuBk/pSuW2xI3wdQgzrhwN41DBA/edit)
 
-## 🚀 My Certificate
-
-[![Certificate](https://img.shields.io/badge/AnthosTerra-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1433933552/multiple-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw&treasuryMediaId=1772102239044)
-
-[![🏆 NASA Global Nominee](https://img.shields.io/badge/NASA%20Space%20Apps-Global%20Nominee-blue?logo=nasa)](#)
-[![🌟 Honorable Mention](https://img.shields.io/badge/Honorable%20Mention-2025-green)](#)
 
 
